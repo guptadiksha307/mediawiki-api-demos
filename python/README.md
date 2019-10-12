@@ -137,6 +137,8 @@ Code snippets in Python demonstrating how to use various modules of the [MediaWi
 * [API:Mergehistory](https://www.mediawiki.org/wiki/API:Mergehistory)
   * [mergehistory.py](mergehistory.py): Merge the page revisions of Oldpage
     dating up to 2015-12-31T04:37:41Z into Newpage
+* [API:Alldeletedrevisions](https://www.mediawiki.org/wiki/API:Alldeletedrevisions)
+  * [get_all_deleted_revs.py](get_all_deleted_revs.py): List all the deleted revisions from a user.
 
 ### Search 
 * [API:Search](https://www.mediawiki.org/wiki/API:Search)
